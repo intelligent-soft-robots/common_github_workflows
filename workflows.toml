@@ -1,0 +1,9 @@
+[git_fixup]
+file = "git_fixup.yml"
+
+[todo_check]
+file = "todo_check.yml"
+
+[python_black]
+file = "python_black.yml"
+language = "python"
