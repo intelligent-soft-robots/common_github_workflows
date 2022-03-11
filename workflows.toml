@@ -7,3 +7,7 @@ file = "todo_check.yml"
 [python_black]
 file = "python_black.yml"
 language = "python"
+
+[cpp_format]
+file = "cpp_format.yml"
+language = "c++"
