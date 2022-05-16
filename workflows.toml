@@ -8,6 +8,10 @@ file = "todo_check.yml"
 file = "python_black.yml"
 language = "python"
 
+[python_mypy]
+file = ["python_mypy.yml", "mypy-problem-matcher.json"]
+language = "python"
+
 [cpp_format]
 file = "cpp_format.yml"
 language = "c++"
