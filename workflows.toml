@@ -12,6 +12,10 @@ language = "python"
 file = ["python_mypy.yml", "mypy-problem-matcher.json"]
 language = "python"
 
+[python_flake8]
+file = ["python_flake8.yml", "flake8-problem-matcher.json"]
+language = "python"
+
 [cpp_format]
 file = "cpp_format.yml"
 language = "c++"
